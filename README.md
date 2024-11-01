@@ -6,7 +6,7 @@ https://key-ideas-assignment-b-amitesh.vercel.app/
 
 #Time Taken
 
-- 16 hoours
+- 16 hours
 
 # Folder structure 
 
